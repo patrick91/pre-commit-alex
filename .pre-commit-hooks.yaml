@@ -1,0 +1,8 @@
+-   id: alex
+    name: alex
+    entry: alex
+    language: node
+    'types': [markdown]
+    args: []
+    require_serial: false
+    additional_dependencies: ["alex@8.1.1"]
